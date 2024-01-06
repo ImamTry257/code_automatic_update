@@ -1,1 +1,2 @@
 1. Belajar Jenkins untuk otomasi update project
+2. Update Data di repo untuk melihat bagaimana console output dari Jenkins
