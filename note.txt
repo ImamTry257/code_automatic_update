@@ -1,3 +1,4 @@
 1. Belajar Jenkins untuk otomasi update project
 2. Update Data di repo untuk melihat bagaimana console output dari Jenkins
 3. Update Data di repo untuk mentriger settingan poll SCM
+4. Update Data di hari berikutnya untuk checking trigger poll SCM
